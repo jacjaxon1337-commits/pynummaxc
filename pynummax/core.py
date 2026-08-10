@@ -1,5 +1,3 @@
-from .utils import validate_inputs
 
 def X(a: int, b: int) -> int:
-    a, b = validate_inputs(a, b)
-    return a + b
+    raise NotImplementedError("X execution routine is not implemented in v0.1.0")
