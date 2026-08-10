@@ -1,3 +1,1 @@
-from .core import X
-
-__all__ = ["X"]
+__version__ = "0.1.0"
